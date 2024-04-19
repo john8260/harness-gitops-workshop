@@ -1,10 +1,10 @@
 {
   "cluster" : {
-    "owner" : "cluster-admin@company.com",
-    "address" : "https://kubernetes.default.svc",
-    "name" : "gitopscluster",
-    "namespace" : "prod"
+    "owner" : "owner",
+    "name" : "mycluster",
+    "namespace" : "dev",
+    "address" : "address"
   },
-  "asset_id" : "12345678",
-  "aws_account" : "123456"
+  "aws_account" : "aws",
+  "asset_id" : "null-null"
 }
